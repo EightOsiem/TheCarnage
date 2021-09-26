@@ -31,6 +31,7 @@ namespace ogarOdZera
             playersHealth = 3;
             monstersHealth = 3;
 
+            //cwc
             graWlasciwa();
         }
 

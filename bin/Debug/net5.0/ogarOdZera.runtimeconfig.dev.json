@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\BalaKom\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\BalaKom\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+                       @@@   NewLinePlaceHolder
+           @@   ____@@@@@@@@____ @@ NewLinePlaceHolder
+         #  @@########@@@######@@   NewLinePlaceHolder
+          #  ###\   ##\\#//## /   ###   NewLinePlaceHolder
+           # ### (*)  ####### (*)  ##    NewLinePlaceHolder
+          ##POPEK### ## ## # #####    NewLinePlaceHolder
+          # #########  ##  #######   NewLinePlaceHolder
+             ### # ######### # ###   NewLinePlaceHolder
+              ### # # # # # # ###    NewLinePlaceHolder
+
+NewFacePlaceHolder
+
+                ###############  NewLinePlaceHolder
+          ########################## NewLinePlaceHolder
+          #                        # NewLinePlaceHolder
+        # #     x          x       # #NewLinePlaceHolder
+         ##         |   |          ##NewLinePlaceHolder 
+         #    _____( _ )______    # NewLinePlaceHolder
+          #        . . . .         # NewLinePlaceHolder
+         ##########################
+
+NewFacePlaceHolder 
+
+          ########################## NewLinePlaceHolder
+          #@@@@@@    \\ /    @@@@@@@@# NewLinePlaceHolder
+        # #@@   (x)   v    (x)    @@# #NewLinePlaceHolder
+         ##         |   |          ##NewLinePlaceHolder
+          #    _____( _ )______    # NewLinePlaceHolder
+         #        . . . .         # NewLinePlaceHolder
+          ########################## 
+
+NewFacePlaceHolder
+
+          ########################## NewLinePlaceHolder
+          #        -------         # NewLinePlaceHolder
+        # #    ( @)       (@ )     # #NewLinePlaceHolder
+         ##         |   |          ##NewLinePlaceHolder
+          # .  _____( _ )______ .  # NewLinePlaceHolder
+          #   |    . . . .     |   # NewLinePlaceHolder
+         ########################## 
+
+NewFacePlaceHolder 
+
+         ########################## NewLinePlaceHolder
+     	~~~~       ~~~~      ~~~~~ NewLinePlaceHolder
+	##  ||||||||||||||||||||| ##NewLinePlaceHolder
+	 # ||||||||||||||||||||||| # NewLinePlaceHolder
+ 	########################## NewLinePlaceHolder
+	# #   (@  )      (@  )    # #NewLinePlaceHolder
+	# .  \\____( _ )_____/ .  # NewLinePlaceHolder
+	########################## 
+
+NewFacePlaceHolder 
+
+        # #    _ X )       ( X _   # #NewLinePlaceHolder
+          # . |      ( _ )     |.  # NewLinePlaceHolder
+          ########################## NewLinePlaceHolder
+          #      (--.--)    (--.--)       # NewLinePlaceHolder
+         ##         |   |          ##NewLinePlaceHolder
+          #   |    . . . .     |   # NewLinePlaceHolder
+         #########________######### NewLinePlaceHolder
+	########################### 
+
+NewFacePlaceHolder
+  
+         #     ~~~~       ~~~~    # NewLinePlaceHolder
+        # #    (  .  )   (  .  )   # #NewLinePlaceHolder
+         ##     _____|   |______   ##NewLinePlaceHolder
+         # . |      ( _ )     |.  # NewLinePlaceHolder
+          #    \\    . @ @ .  /    # NewLinePlaceHolder
+          ##########################
+
+NewFacePlaceHolder
+
+          _#####_____###____#####_  NewLinePlaceHolder
+          #     ~~~~       ~~~~    # NewLinePlaceHolder
+        # #    (  .  )   (  .  )   # #NewLinePlaceHolder
+         ##     _____|   |______   ##NewLinePlaceHolder
+         # . |     (  _  )    |.  # NewLinePlaceHolder
+         ###  \\   ~~~~~~~~    / ### NewLinePlaceHolder
+          ########__&   &__#######  

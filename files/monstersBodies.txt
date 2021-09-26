@@ -1,0 +1,111 @@
+                       #            [||}" NewLinePlaceHolder
+                   ########          @/" NewLinePlaceHolder
+                ###  \\###  ####    ##" NewLinePlaceHolder
+              ##      \\##      ####" NewLinePlaceHolder
+             #        /##" NewLinePlaceHolder
+             #       /###" NewLinePlaceHolder
+              #@   ##    ##" NewLinePlaceHolder
+              @@  #        #" NewLinePlaceHolder
+                  #        #" NewLinePlaceHolder
+                  #        #" NewLinePlaceHolder
+                 G#        #D
+
+NewBodyPlaceHolder
+
+                   __/    \\___NewLinePlaceHolder
+              ____#           #____ NewLinePlaceHolder
+            ##                     ## NewLinePlaceHolder
+          ##       |        |        ##NewLinePlaceHolder 
+        #        #          #         # NewLinePlaceHolder
+        #       # \\  . / \\ .  /#        # NewLinePlaceHolder
+        #       #              #        # NewLinePlaceHolder
+ ___     #      #       @      #       # NewLinePlaceHolder
+[   ]     #    # .____________.  #     # NewLinePlaceHolder
+[   ]######[,,,]##################[,,,] NewLinePlaceHolder
+[   ]        #      ~~   \\~~        #" NewLinePlaceHolder
+  ^^^         #      ~~    ~~        #" NewLinePlaceHolder
+              #      ~~    ~~        #" NewLinePlaceHolder
+              ########      ########"  NewLinePlaceHolder
+             #########      #########" NewLinePlaceHolder
+             #########      #########
+
+NewBodyPlaceHolder
+
+                   __/    \\___NewLinePlaceHolder
+             ____#           #____ NewLinePlaceHolder
+            ##                     ## NewLinePlaceHolder
+         ##       |        |        ##NewLinePlaceHolder
+        #        #          #         # NewLinePlaceHolder
+       #       # \\  . / \\ .  /#        # NewLinePlaceHolder
+       #       #              #        # NewLinePlaceHolder
+         #      #       @      #       # NewLinePlaceHolder
+          #    # .____________.  #     # NewLinePlaceHolder
+           [,,,]   .  ;^:   .    [,,,] NewLinePlaceHolder
+            #      ~~   \\~~        #" NewLinePlaceHolder
+             #      ~~    ~~        #" NewLinePlaceHolder
+             #      ~~    ~~        #" NewLinePlaceHolder
+               #######      ######"  NewLinePlaceHolder
+           	 #####       #####" NewLinePlaceHolder
+          	  #####       #### NewLinePlaceHolder
+		__[][]____   __[][]____ NewLinePlaceHolder
+
+NewBodyPlaceHolder
+
+                      #### NewLinePlaceHolder
+                      #### NewLinePlaceHolder
+                    ######NewLinePlaceHolder 
+                   # #### #NewLinePlaceHolder
+                   #  ####  #NewLinePlaceHolder 
+                ##   ####   ##NewLinePlaceHolder
+  ___          ##     ####    #NewLinePlaceHolder
+  ___|_______##_______####_____#____NewLinePlaceHolder
+  ___|               ##  ## NewLinePlaceHolder 
+                    ##  ## NewLinePlaceHolder
+                     ##  ## NewLinePlaceHolder 
+                   ##    ## NewLinePlaceHolder
+                    ##    ## NewLinePlaceHolder
+                  ####    #### 
+NewBodyPlaceHolder
+      %               ####     @@NewLinePlaceHolder
+       %              ####      @@NewLinePlaceHolder
+        %            ######     @@@NewLinePlaceHolder
+         %          # #### #    @@@NewLinePlaceHolder
+          %        #  ####  #  #@@@NewLinePlaceHolder
+           %% %  ##   ####   ## @@@NewLinePlaceHolder
+            %% ##     ####      @@NewLinePlaceHolder 
+          % ##       ####     @@NewLinePlaceHolder
+               %     ##  ## NewLinePlaceHolder
+                     ##  ## NewLinePlaceHolder
+                     ##  ## NewLinePlaceHolder
+                    ##    ## NewLinePlaceHolder
+                    ##    ## NewLinePlaceHolder 
+                 ####    #### 
+
+NewBodyPlaceHolder
+ 
+                   ### NewLinePlaceHolder
+                     #### NewLinePlaceHolder
+                    ######NewLinePlaceHolder
+                   # #### #NewLinePlaceHolder
+             |      #  ####  #NewLinePlaceHolder
+             |   ##  ######  ##NewLinePlaceHolder
+           ['|']##  ########   ##NewLinePlaceHolder 
+           \\###     ######   | ##NewLinePlaceHolder 
+                    ##  ##     |||NewLinePlaceHolder 
+                    ##  ## NewLinePlaceHolder 
+                    ##  ## NewLinePlaceHolder 
+                   ##    ## NewLinePlaceHolder
+                    ##    ## NewLinePlaceHolder
+                  ####    #### 
+
+NewBodyPlaceHolder
+
+                      ##@@@@NewLinePlaceHolder
+                     ####@@@@@@@@#########@ NewLinePlaceHolder
+                      ####@@############### @NewLinePlaceHolder
+                      ####@@@@############# @@NewLinePlaceHolder
+                      ############### $  ##  @@NewLinePlaceHolder
+                      ##  ##           $  ##  @@NewLinePlaceHolder 
+                     ##  ##            $ ## @@NewLinePlaceHolder 
+                     ##  ##            $##NewLinePlaceHolder 
+                    ##  ##           ##**NewLinePlaceHolder 
